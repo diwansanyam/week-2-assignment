@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore test files and directories
+# This will ignore any file or directory named 'test' or 'tests'
+test/
+tests/
+
+# Alternatively, if your test files follow a specific naming convention, such as ending with .test.js or .spec.js:
+*.test.js
+*.spec.js
